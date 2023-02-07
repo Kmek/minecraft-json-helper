@@ -1,4 +1,4 @@
-# minecraft-forge-json-helper
+# minecraft-json-helper
 
 A JS script to help clone JSON files for similar Minecraft blockstates, block models, item models, and recipes. This is to help speed up Minecraft modding.
 
